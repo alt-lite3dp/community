@@ -12,8 +12,14 @@ Crastinblack already made a good start, but I prefer to make it more complete by
 
 Usage
 ---------------------------
-Just print many! 
-Then I can print immediately after the previous one finish. 
-Printing can run parallel when I am recovering resin, removing print and cleaning the build platform. 
+Just print many!  (MagneticBuildPlatform_R1.stl) 
+Then we can print immediately after the previous one finish. 
+Printing can run parallel when recovering resin, removing print and cleaning the build platform. 
 
+1. Place the model like this:
 ![Print Position](https://raw.githubusercontent.com/JoLamMaker/community/master/FDM_MagneticBuildPlate/IMG_0931%20(800x600).jpg)
+2. Screw in Steel Ball:
+![Screw in the ball](https://github.com/JoLamMaker/community/blob/master/FDM_MagneticBuildPlate/IMG_0932%20(600x800).jpg)
+4. Use it as-is the origilan aliminium build plate
+![Attached Magnetically](https://github.com/JoLamMaker/community/blob/master/FDM_MagneticBuildPlate/IMG_0937%20(800x600).jpg)
+![Print nicely](https://github.com/JoLamMaker/community/blob/master/FDM_MagneticBuildPlate/IMG_0938%20(600x800).jpg)
